@@ -1,7 +1,8 @@
-Hi 👋 My name is saiid badra
+Hallo 👋 ich ben saiid badra
 ============================
-
+from lebanon/tripoli
 web developer
+
 -------------
 
 learning and adapting to new technologies and tools within the web development space the junior web development will be responsible for assisting in the creation and maintenance of websites and web
