@@ -1,4 +1,4 @@
-Hallo 👋 ich ben saiid badra
+hello i'm saiid badra
 ============================
 from lebanon/tripoli
 web developer
