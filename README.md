@@ -1,7 +1,9 @@
 hello i'm saiid badra
 ============================
-from lebanon/tripoli
-web developer
+from lebanon 
+
+
+junior web developer
 
 -------------
 
